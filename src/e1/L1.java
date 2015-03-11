@@ -23,6 +23,7 @@ public class L1 {
 
 		o.addProduct(new Product("lenovo",12,120));
 		o.addProduct(new Product("dell",4,140));
+		o.addProduct(new Product("hp",2,100))
 					
    
     
